@@ -1,0 +1,557 @@
+2025-07-25 14:06:59 [TestNG-tests-1] INFO  testCases.TC002_Login - ***Starting TC002_Login ****
+2025-07-25 14:06:59 [TestNG-tests-1] INFO  testCases.TC002_Login - Reached login screen 
+2025-07-25 14:06:59 [TestNG-tests-1] INFO  testCases.TC002_Login - Email ID field is filled
+2025-07-25 14:06:59 [TestNG-tests-1] INFO  testCases.TC002_Login - Password entered
+2025-07-25 14:07:00 [TestNG-tests-1] INFO  testCases.TC002_Login - Login is successful
+2025-07-25 14:07:00 [TestNG-tests-1] INFO  testCases.TC002_Login - ****Test Execution Complete****
+2025-07-25 14:14:50 [TestNG-tests-1] INFO  testCases.TC002_Login - ***Starting TC002_Login ****
+2025-07-25 14:14:51 [TestNG-tests-1] INFO  testCases.TC002_Login - Reached login screen 
+2025-07-25 14:14:51 [TestNG-tests-1] INFO  testCases.TC002_Login - Email ID field is filled
+2025-07-25 14:14:51 [TestNG-tests-1] INFO  testCases.TC002_Login - Password entered
+2025-07-25 14:14:52 [TestNG-tests-1] INFO  testCases.TC002_Login - Login is successful
+2025-07-25 14:14:52 [TestNG-tests-1] INFO  testCases.TC002_Login - ****Test Execution Complete****
+2025-07-25 14:34:56 [TestNG-tests-1] INFO  testCases.TC002_Login - ***Starting TC002_Login ****
+2025-07-25 14:34:56 [TestNG-tests-1] INFO  testCases.TC002_Login - Reached login screen 
+2025-07-25 14:34:56 [TestNG-tests-1] INFO  testCases.TC002_Login - Email ID field is filled
+2025-07-25 14:34:56 [TestNG-tests-1] INFO  testCases.TC002_Login - Password entered
+2025-07-25 14:34:57 [TestNG-tests-1] INFO  testCases.TC002_Login - Login is successful
+2025-07-25 14:34:57 [TestNG-tests-1] INFO  testCases.TC002_Login - ****Test Execution Complete****
+2025-07-25 14:47:26 [TestNG-tests-1] INFO  testCases.TC002_Login - ***Starting TC002_Login ****
+2025-07-25 14:47:27 [TestNG-tests-1] INFO  testCases.TC002_Login - Reached login screen 
+2025-07-25 14:47:27 [TestNG-tests-1] INFO  testCases.TC002_Login - Email ID field is filled
+2025-07-25 14:47:27 [TestNG-tests-1] INFO  testCases.TC002_Login - Password entered
+2025-07-25 14:47:28 [TestNG-tests-1] INFO  testCases.TC002_Login - Login is successful
+2025-07-25 14:47:28 [TestNG-tests-1] INFO  testCases.TC002_Login - Account exists
+2025-07-25 14:47:28 [TestNG-tests-1] INFO  testCases.TC002_Login - ****Test Execution Complete****
+2025-07-25 14:56:45 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest ****
+2025-07-25 14:56:45 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2025-07-25 14:56:46 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2025-07-25 14:56:46 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - First name Filled
+2025-07-25 14:56:46 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Last name Filled
+2025-07-25 14:56:46 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Email entered
+2025-07-25 14:56:46 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Password entered
+2025-07-25 14:56:46 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Password confirmed
+2025-07-25 14:56:46 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Mobile number filled
+2025-07-25 14:56:46 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Agreed privacy policy
+2025-07-25 14:56:47 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Submitted registration form
+2025-07-25 14:56:47 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Welcome screen message retreived
+2025-07-25 14:56:47 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***Finished TC001_AccountRegistrationTest*** 
+2025-07-25 14:56:49 [TestNG-tests-1] INFO  testCases.TC002_Login - ***Starting TC002_Login ****
+2025-07-25 14:56:50 [TestNG-tests-1] INFO  testCases.TC002_Login - Reached login screen 
+2025-07-25 14:56:50 [TestNG-tests-1] INFO  testCases.TC002_Login - Email ID field is filled
+2025-07-25 14:56:50 [TestNG-tests-1] INFO  testCases.TC002_Login - Password entered
+2025-07-25 14:56:50 [TestNG-tests-1] INFO  testCases.TC002_Login - Login is successful
+2025-07-25 14:56:51 [TestNG-tests-1] INFO  testCases.TC002_Login - Account exists
+2025-07-25 14:56:51 [TestNG-tests-1] INFO  testCases.TC002_Login - ****Test Execution Complete****
+2025-07-25 17:48:35 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-07-25 17:48:35 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-07-25 18:05:07 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-07-25 18:05:07 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-07-25 18:05:08 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - ***Starting TC002_Login ****
+2025-07-25 18:05:09 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - Reached login screen 
+2025-07-25 18:05:09 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - ****Test Execution Complete****
+2025-07-25 18:05:09 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - ***Starting TC002_Login ****
+2025-07-25 18:05:09 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - Reached login screen 
+2025-07-25 18:05:09 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - ****Test Execution Complete****
+2025-07-25 18:05:09 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - ***Starting TC002_Login ****
+2025-07-25 18:05:10 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - Reached login screen 
+2025-07-25 18:05:10 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - ****Test Execution Complete****
+2025-07-25 18:05:10 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - ***Starting TC002_Login ****
+2025-07-25 18:05:10 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - Reached login screen 
+2025-07-25 18:05:10 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - ****Test Execution Complete****
+2025-07-25 18:08:21 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-07-25 18:08:21 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-07-25 18:08:21 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - ***Starting TC002_Login ****
+2025-07-25 18:08:22 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - Reached login screen 
+2025-07-25 18:08:22 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - Email ID field is filled
+2025-07-25 18:08:22 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - Password entered
+2025-07-25 18:08:23 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - Login is successful
+2025-07-25 18:08:24 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - ****Test Execution Complete****
+2025-07-25 18:08:24 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - ***Starting TC002_Login ****
+2025-07-25 18:08:24 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - Reached login screen 
+2025-07-25 18:08:24 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - Email ID field is filled
+2025-07-25 18:08:24 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - Password entered
+2025-07-25 18:08:24 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - Login is successful
+2025-07-25 18:08:35 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - ****Test Execution Complete****
+2025-07-25 18:08:35 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - ***Starting TC002_Login ****
+2025-07-25 18:08:36 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - Reached login screen 
+2025-07-25 18:08:36 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - Email ID field is filled
+2025-07-25 18:08:36 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - Password entered
+2025-07-25 18:08:36 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - Login is successful
+2025-07-25 18:08:47 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - ****Test Execution Complete****
+2025-07-25 18:08:47 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - ***Starting TC002_Login ****
+2025-07-25 18:08:48 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - Reached login screen 
+2025-07-25 18:08:48 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - Email ID field is filled
+2025-07-25 18:08:48 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - Password entered
+2025-07-25 18:08:49 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - Login is successful
+2025-07-25 18:08:50 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - ****Test Execution Complete****
+2025-07-25 18:49:36 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-07-25 18:49:36 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-07-25 18:49:37 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - ***Starting TC002_Login ****
+2025-07-25 18:49:37 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - Reached login screen 
+2025-07-25 18:49:37 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - Email ID field is filled
+2025-07-25 18:49:37 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - Password entered
+2025-07-25 18:49:38 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - Login is successful
+2025-07-25 18:49:38 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - ****Test Execution Complete****
+2025-07-25 18:49:38 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - ***Starting TC002_Login ****
+2025-07-25 18:49:39 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - Reached login screen 
+2025-07-25 18:49:39 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - Email ID field is filled
+2025-07-25 18:49:39 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - Password entered
+2025-07-25 18:49:39 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - Login is successful
+2025-07-25 18:49:50 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - ****Test Execution Complete****
+2025-07-25 18:49:50 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - ***Starting TC002_Login ****
+2025-07-25 18:49:51 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - Reached login screen 
+2025-07-25 18:49:51 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - Email ID field is filled
+2025-07-25 18:49:51 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - Password entered
+2025-07-25 18:49:51 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - Login is successful
+2025-07-25 18:50:01 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - ****Test Execution Complete****
+2025-07-25 18:50:01 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - ***Starting TC002_Login ****
+2025-07-25 18:50:02 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - Reached login screen 
+2025-07-25 18:50:02 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - Email ID field is filled
+2025-07-25 18:50:02 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - Password entered
+2025-07-25 18:50:02 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - Login is successful
+2025-07-25 18:50:08 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - ****Test Execution Complete****
+2025-07-25 18:56:18 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-07-25 18:56:18 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-07-25 18:56:19 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - ***Starting TC002_Login ****
+2025-07-25 18:56:19 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - Reached login screen 
+2025-07-25 18:56:19 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - Email ID field is filled
+2025-07-25 18:56:19 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - Password entered
+2025-07-25 18:56:19 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - Login is successful
+2025-07-25 18:56:21 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - ****Test Execution Complete****
+2025-07-25 18:56:21 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - ***Starting TC002_Login ****
+2025-07-25 18:56:21 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - Reached login screen 
+2025-07-25 18:56:21 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - Email ID field is filled
+2025-07-25 18:56:21 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - Password entered
+2025-07-25 18:56:21 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - Login is successful
+2025-07-25 18:56:31 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - ****Test Execution Complete****
+2025-07-25 18:56:31 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - ***Starting TC002_Login ****
+2025-07-25 18:56:32 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - Reached login screen 
+2025-07-25 18:56:32 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - Email ID field is filled
+2025-07-25 18:56:32 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - Password entered
+2025-07-25 18:56:32 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - Login is successful
+2025-07-25 18:56:42 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - ****Test Execution Complete****
+2025-07-25 18:56:42 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - ***Starting TC002_Login ****
+2025-07-25 18:56:43 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - Reached login screen 
+2025-07-25 18:56:43 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - Email ID field is filled
+2025-07-25 18:56:43 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - Password entered
+2025-07-25 18:56:43 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - Login is successful
+2025-07-25 18:56:44 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - ****Test Execution Complete****
+2025-07-25 20:57:53 [TestNG-tests-1] INFO  testCases.TC002_Login - ***Starting TC002_Login ****
+2025-07-25 20:57:53 [TestNG-tests-1] INFO  testCases.TC002_Login - Reached login screen 
+2025-07-25 20:57:54 [TestNG-tests-1] INFO  testCases.TC002_Login - Email ID field is filled
+2025-07-25 20:57:54 [TestNG-tests-1] INFO  testCases.TC002_Login - Password entered
+2025-07-25 20:57:54 [TestNG-tests-1] INFO  testCases.TC002_Login - Login is successful
+2025-07-25 20:57:54 [TestNG-tests-1] INFO  testCases.TC002_Login - Account exists
+2025-07-25 20:57:54 [TestNG-tests-1] INFO  testCases.TC002_Login - ****Test Execution Complete****
+2025-07-26 17:51:16 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest ****
+2025-07-26 17:51:16 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2025-07-26 17:51:17 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2025-07-26 17:51:17 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - First name Filled
+2025-07-26 17:51:17 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Last name Filled
+2025-07-26 17:51:17 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Email entered
+2025-07-26 17:51:17 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Password entered
+2025-07-26 17:51:17 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Password confirmed
+2025-07-26 17:51:17 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Mobile number filled
+2025-07-26 17:51:17 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Agreed privacy policy
+2025-07-26 17:51:18 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Submitted registration form
+2025-07-26 17:51:19 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Welcome screen message retreived
+2025-07-26 17:51:19 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***Finished TC001_AccountRegistrationTest*** 
+2025-07-26 17:51:21 [TestNG-tests-1] INFO  testCases.TC002_Login - ***Starting TC002_Login ****
+2025-07-26 17:51:21 [TestNG-tests-1] INFO  testCases.TC002_Login - Reached login screen 
+2025-07-26 17:51:21 [TestNG-tests-1] INFO  testCases.TC002_Login - Email ID field is filled
+2025-07-26 17:51:21 [TestNG-tests-1] INFO  testCases.TC002_Login - Password entered
+2025-07-26 17:51:21 [TestNG-tests-1] INFO  testCases.TC002_Login - Login is successful
+2025-07-26 17:51:22 [TestNG-tests-1] INFO  testCases.TC002_Login - Account exists
+2025-07-26 17:51:22 [TestNG-tests-1] INFO  testCases.TC002_Login - ****Test Execution Complete****
+2025-07-26 17:53:51 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest ****
+2025-07-26 17:53:51 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2025-07-26 17:53:52 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2025-07-26 17:53:52 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - First name Filled
+2025-07-26 17:53:52 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Last name Filled
+2025-07-26 17:53:52 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Email entered
+2025-07-26 17:53:52 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Password entered
+2025-07-26 17:53:52 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Password confirmed
+2025-07-26 17:53:52 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Mobile number filled
+2025-07-26 17:53:52 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Agreed privacy policy
+2025-07-26 17:53:53 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Submitted registration form
+2025-07-26 17:53:53 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Welcome screen message retreived
+2025-07-26 17:53:53 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***Finished TC001_AccountRegistrationTest*** 
+2025-07-26 17:53:57 [TestNG-tests-1] INFO  testCases.TC002_Login - ***Starting TC002_Login ****
+2025-07-26 17:53:57 [TestNG-tests-1] INFO  testCases.TC002_Login - Reached login screen 
+2025-07-26 17:53:57 [TestNG-tests-1] INFO  testCases.TC002_Login - Email ID field is filled
+2025-07-26 17:53:57 [TestNG-tests-1] INFO  testCases.TC002_Login - Password entered
+2025-07-26 17:53:57 [TestNG-tests-1] INFO  testCases.TC002_Login - Login is successful
+2025-07-26 17:53:58 [TestNG-tests-1] INFO  testCases.TC002_Login - Account exists
+2025-07-26 17:53:58 [TestNG-tests-1] INFO  testCases.TC002_Login - ****Test Execution Complete****
+2025-07-26 17:57:30 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest ****
+2025-07-26 17:57:30 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2025-07-26 17:57:31 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2025-07-26 17:57:31 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - First name Filled
+2025-07-26 17:57:31 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Last name Filled
+2025-07-26 17:57:31 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Email entered
+2025-07-26 17:57:31 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Password entered
+2025-07-26 17:57:31 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Password confirmed
+2025-07-26 17:57:31 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Mobile number filled
+2025-07-26 17:57:31 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Agreed privacy policy
+2025-07-26 17:57:32 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Submitted registration form
+2025-07-26 17:57:33 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Welcome screen message retreived
+2025-07-26 17:57:33 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***Finished TC001_AccountRegistrationTest*** 
+2025-07-26 17:57:35 [TestNG-tests-1] INFO  testCases.TC002_Login - ***Starting TC002_Login ****
+2025-07-26 17:57:36 [TestNG-tests-1] INFO  testCases.TC002_Login - Reached login screen 
+2025-07-26 17:57:36 [TestNG-tests-1] INFO  testCases.TC002_Login - Email ID field is filled
+2025-07-26 17:57:36 [TestNG-tests-1] INFO  testCases.TC002_Login - Password entered
+2025-07-26 17:57:37 [TestNG-tests-1] INFO  testCases.TC002_Login - Login is successful
+2025-07-26 17:57:47 [TestNG-tests-1] INFO  testCases.TC002_Login - ****Test Execution Complete****
+2025-07-26 17:59:28 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest ****
+2025-07-26 17:59:28 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2025-07-26 17:59:28 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2025-07-26 17:59:28 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - First name Filled
+2025-07-26 17:59:28 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Last name Filled
+2025-07-26 17:59:29 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Email entered
+2025-07-26 17:59:29 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Password entered
+2025-07-26 17:59:29 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Password confirmed
+2025-07-26 17:59:29 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Mobile number filled
+2025-07-26 17:59:29 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Agreed privacy policy
+2025-07-26 17:59:29 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Submitted registration form
+2025-07-26 17:59:30 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Welcome screen message retreived
+2025-07-26 17:59:30 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***Finished TC001_AccountRegistrationTest*** 
+2025-07-26 17:59:32 [TestNG-tests-1] INFO  testCases.TC002_Login - ***Starting TC002_Login ****
+2025-07-26 17:59:32 [TestNG-tests-1] INFO  testCases.TC002_Login - Reached login screen 
+2025-07-26 17:59:33 [TestNG-tests-1] INFO  testCases.TC002_Login - Email ID field is filled
+2025-07-26 17:59:33 [TestNG-tests-1] INFO  testCases.TC002_Login - Password entered
+2025-07-26 17:59:33 [TestNG-tests-1] INFO  testCases.TC002_Login - Login is successful
+2025-07-26 17:59:33 [TestNG-tests-1] INFO  testCases.TC002_Login - Account exists
+2025-07-26 17:59:33 [TestNG-tests-1] INFO  testCases.TC002_Login - ****Test Execution Complete****
+2025-07-26 18:13:33 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest ****
+2025-07-26 18:13:33 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2025-07-26 18:13:34 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2025-07-26 18:13:34 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - First name Filled
+2025-07-26 18:13:34 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Last name Filled
+2025-07-26 18:13:34 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Email entered
+2025-07-26 18:13:34 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Password entered
+2025-07-26 18:13:34 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Password confirmed
+2025-07-26 18:13:34 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Mobile number filled
+2025-07-26 18:13:34 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Agreed privacy policy
+2025-07-26 18:13:35 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Submitted registration form
+2025-07-26 18:13:35 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Welcome screen message retreived
+2025-07-26 18:13:35 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***Finished TC001_AccountRegistrationTest*** 
+2025-07-26 18:13:38 [TestNG-tests-1] INFO  testCases.TC002_Login - ***Starting TC002_Login ****
+2025-07-26 18:13:38 [TestNG-tests-1] INFO  testCases.TC002_Login - Reached login screen 
+2025-07-26 18:13:38 [TestNG-tests-1] INFO  testCases.TC002_Login - Email ID field is filled
+2025-07-26 18:13:38 [TestNG-tests-1] INFO  testCases.TC002_Login - Password entered
+2025-07-26 18:13:38 [TestNG-tests-1] INFO  testCases.TC002_Login - Login is successful
+2025-07-26 18:13:48 [TestNG-tests-1] INFO  testCases.TC002_Login - ****Test Execution Complete****
+2025-07-26 18:20:57 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest ****
+2025-07-26 18:20:58 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2025-07-26 18:20:58 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2025-07-26 18:20:58 [main] INFO  testCases.TC001_AccountRegistrationTest - First name Filled
+2025-07-26 18:20:58 [main] INFO  testCases.TC001_AccountRegistrationTest - Last name Filled
+2025-07-26 18:20:58 [main] INFO  testCases.TC001_AccountRegistrationTest - Email entered
+2025-07-26 18:20:58 [main] INFO  testCases.TC001_AccountRegistrationTest - Password entered
+2025-07-26 18:20:58 [main] INFO  testCases.TC001_AccountRegistrationTest - Password confirmed
+2025-07-26 18:20:58 [main] INFO  testCases.TC001_AccountRegistrationTest - Mobile number filled
+2025-07-26 18:20:58 [main] INFO  testCases.TC001_AccountRegistrationTest - Agreed privacy policy
+2025-07-26 18:20:59 [main] INFO  testCases.TC001_AccountRegistrationTest - Submitted registration form
+2025-07-26 18:20:59 [main] INFO  testCases.TC001_AccountRegistrationTest - Welcome screen message retreived
+2025-07-26 18:20:59 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Finished TC001_AccountRegistrationTest*** 
+2025-07-26 18:21:02 [main] INFO  testCases.TC002_Login - ***Starting TC002_Login ****
+2025-07-26 18:21:02 [main] INFO  testCases.TC002_Login - Reached login screen 
+2025-07-26 18:21:02 [main] INFO  testCases.TC002_Login - Email ID field is filled
+2025-07-26 18:21:02 [main] INFO  testCases.TC002_Login - Password entered
+2025-07-26 18:21:02 [main] INFO  testCases.TC002_Login - Login is successful
+2025-07-26 18:21:13 [main] INFO  testCases.TC002_Login - ****Test Execution Complete****
+2025-07-26 18:25:02 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest ****
+2025-07-26 18:25:02 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2025-07-26 18:25:04 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2025-07-26 18:25:04 [main] INFO  testCases.TC001_AccountRegistrationTest - First name Filled
+2025-07-26 18:25:04 [main] INFO  testCases.TC001_AccountRegistrationTest - Last name Filled
+2025-07-26 18:25:04 [main] INFO  testCases.TC001_AccountRegistrationTest - Email entered
+2025-07-26 18:25:04 [main] INFO  testCases.TC001_AccountRegistrationTest - Password entered
+2025-07-26 18:25:04 [main] INFO  testCases.TC001_AccountRegistrationTest - Password confirmed
+2025-07-26 18:25:04 [main] INFO  testCases.TC001_AccountRegistrationTest - Mobile number filled
+2025-07-26 18:25:04 [main] INFO  testCases.TC001_AccountRegistrationTest - Agreed privacy policy
+2025-07-26 18:25:04 [main] INFO  testCases.TC001_AccountRegistrationTest - Submitted registration form
+2025-07-26 18:25:09 [main] INFO  testCases.TC001_AccountRegistrationTest - Welcome screen message retreived
+2025-07-26 18:25:09 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Finished TC001_AccountRegistrationTest*** 
+2025-07-26 18:25:11 [main] INFO  testCases.TC002_Login - ***Starting TC002_Login ****
+2025-07-26 18:25:12 [main] INFO  testCases.TC002_Login - Reached login screen 
+2025-07-26 18:25:12 [main] INFO  testCases.TC002_Login - Email ID field is filled
+2025-07-26 18:25:12 [main] INFO  testCases.TC002_Login - Password entered
+2025-07-26 18:25:12 [main] INFO  testCases.TC002_Login - Login is successful
+2025-07-26 18:25:22 [main] INFO  testCases.TC002_Login - ****Test Execution Complete****
+2025-07-26 18:33:45 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest ****
+2025-07-26 18:33:45 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2025-07-26 18:33:46 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2025-07-26 18:33:46 [main] INFO  testCases.TC001_AccountRegistrationTest - First name Filled
+2025-07-26 18:33:46 [main] INFO  testCases.TC001_AccountRegistrationTest - Last name Filled
+2025-07-26 18:33:46 [main] INFO  testCases.TC001_AccountRegistrationTest - Email entered
+2025-07-26 18:33:46 [main] INFO  testCases.TC001_AccountRegistrationTest - Password entered
+2025-07-26 18:33:46 [main] INFO  testCases.TC001_AccountRegistrationTest - Password confirmed
+2025-07-26 18:33:46 [main] INFO  testCases.TC001_AccountRegistrationTest - Mobile number filled
+2025-07-26 18:33:46 [main] INFO  testCases.TC001_AccountRegistrationTest - Agreed privacy policy
+2025-07-26 18:33:47 [main] INFO  testCases.TC001_AccountRegistrationTest - Submitted registration form
+2025-07-26 18:33:47 [main] INFO  testCases.TC001_AccountRegistrationTest - Welcome screen message retreived
+2025-07-26 18:33:47 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Finished TC001_AccountRegistrationTest*** 
+2025-07-26 18:33:50 [main] INFO  testCases.TC002_Login - ***Starting TC002_Login ****
+2025-07-26 18:33:51 [main] INFO  testCases.TC002_Login - Reached login screen 
+2025-07-26 18:33:51 [main] INFO  testCases.TC002_Login - Email ID field is filled
+2025-07-26 18:33:51 [main] INFO  testCases.TC002_Login - Password entered
+2025-07-26 18:33:51 [main] INFO  testCases.TC002_Login - Login is successful
+2025-07-26 18:37:48 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest ****
+2025-07-26 18:37:49 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2025-07-26 18:37:49 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2025-07-26 18:37:49 [main] INFO  testCases.TC001_AccountRegistrationTest - First name Filled
+2025-07-26 18:37:49 [main] INFO  testCases.TC001_AccountRegistrationTest - Last name Filled
+2025-07-26 18:37:49 [main] INFO  testCases.TC001_AccountRegistrationTest - Email entered
+2025-07-26 18:37:49 [main] INFO  testCases.TC001_AccountRegistrationTest - Password entered
+2025-07-26 18:37:49 [main] INFO  testCases.TC001_AccountRegistrationTest - Password confirmed
+2025-07-26 18:37:49 [main] INFO  testCases.TC001_AccountRegistrationTest - Mobile number filled
+2025-07-26 18:37:50 [main] INFO  testCases.TC001_AccountRegistrationTest - Agreed privacy policy
+2025-07-26 18:37:51 [main] INFO  testCases.TC001_AccountRegistrationTest - Submitted registration form
+2025-07-26 18:37:51 [main] INFO  testCases.TC001_AccountRegistrationTest - Welcome screen message retreived
+2025-07-26 18:37:51 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Finished TC001_AccountRegistrationTest*** 
+2025-07-26 18:37:53 [main] INFO  testCases.TC002_Login - ***Starting TC002_Login ****
+2025-07-26 18:37:53 [main] INFO  testCases.TC002_Login - Reached login screen 
+2025-07-26 18:37:53 [main] INFO  testCases.TC002_Login - Email ID field is filled
+2025-07-26 18:37:53 [main] INFO  testCases.TC002_Login - Password entered
+2025-07-26 18:37:54 [main] INFO  testCases.TC002_Login - Login is successful
+2025-07-26 18:41:33 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest ****
+2025-07-26 18:41:33 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2025-07-26 18:41:33 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2025-07-26 18:41:33 [main] INFO  testCases.TC001_AccountRegistrationTest - First name Filled
+2025-07-26 18:41:34 [main] INFO  testCases.TC001_AccountRegistrationTest - Last name Filled
+2025-07-26 18:41:34 [main] INFO  testCases.TC001_AccountRegistrationTest - Email entered
+2025-07-26 18:41:34 [main] INFO  testCases.TC001_AccountRegistrationTest - Password entered
+2025-07-26 18:41:34 [main] INFO  testCases.TC001_AccountRegistrationTest - Password confirmed
+2025-07-26 18:41:34 [main] INFO  testCases.TC001_AccountRegistrationTest - Mobile number filled
+2025-07-26 18:41:34 [main] INFO  testCases.TC001_AccountRegistrationTest - Agreed privacy policy
+2025-07-26 18:41:35 [main] INFO  testCases.TC001_AccountRegistrationTest - Submitted registration form
+2025-07-26 18:41:35 [main] INFO  testCases.TC001_AccountRegistrationTest - Welcome screen message retreived
+2025-07-26 18:41:35 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Finished TC001_AccountRegistrationTest*** 
+2025-07-26 18:41:37 [main] INFO  testCases.TC002_Login - ***Starting TC002_Login ****
+2025-07-26 18:41:38 [main] INFO  testCases.TC002_Login - Reached login screen 
+2025-07-26 18:41:38 [main] INFO  testCases.TC002_Login - Email ID field is filled
+2025-07-26 18:41:38 [main] INFO  testCases.TC002_Login - Password entered
+2025-07-26 18:41:39 [main] INFO  testCases.TC002_Login - Login is successful
+2025-07-26 18:52:05 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest ****
+2025-07-26 18:52:05 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2025-07-26 18:52:06 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2025-07-26 18:52:06 [main] INFO  testCases.TC001_AccountRegistrationTest - First name Filled
+2025-07-26 18:52:06 [main] INFO  testCases.TC001_AccountRegistrationTest - Last name Filled
+2025-07-26 18:52:06 [main] INFO  testCases.TC001_AccountRegistrationTest - Email entered
+2025-07-26 18:52:06 [main] INFO  testCases.TC001_AccountRegistrationTest - Password entered
+2025-07-26 18:52:06 [main] INFO  testCases.TC001_AccountRegistrationTest - Password confirmed
+2025-07-26 18:52:06 [main] INFO  testCases.TC001_AccountRegistrationTest - Mobile number filled
+2025-07-26 18:52:06 [main] INFO  testCases.TC001_AccountRegistrationTest - Agreed privacy policy
+2025-07-26 18:52:06 [main] INFO  testCases.TC001_AccountRegistrationTest - Submitted registration form
+2025-07-26 18:52:07 [main] INFO  testCases.TC001_AccountRegistrationTest - Welcome screen message retreived
+2025-07-26 18:52:07 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Finished TC001_AccountRegistrationTest*** 
+2025-07-26 18:55:26 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest ****
+2025-07-26 18:55:26 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2025-07-26 18:55:27 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2025-07-26 18:55:27 [main] INFO  testCases.TC001_AccountRegistrationTest - First name Filled
+2025-07-26 18:55:27 [main] INFO  testCases.TC001_AccountRegistrationTest - Last name Filled
+2025-07-26 18:55:27 [main] INFO  testCases.TC001_AccountRegistrationTest - Email entered
+2025-07-26 18:55:27 [main] INFO  testCases.TC001_AccountRegistrationTest - Password entered
+2025-07-26 18:55:27 [main] INFO  testCases.TC001_AccountRegistrationTest - Password confirmed
+2025-07-26 18:55:27 [main] INFO  testCases.TC001_AccountRegistrationTest - Mobile number filled
+2025-07-26 18:55:27 [main] INFO  testCases.TC001_AccountRegistrationTest - Agreed privacy policy
+2025-07-26 18:55:28 [main] INFO  testCases.TC001_AccountRegistrationTest - Submitted registration form
+2025-07-26 18:55:28 [main] INFO  testCases.TC001_AccountRegistrationTest - Welcome screen message retreived
+2025-07-26 18:55:28 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Finished TC001_AccountRegistrationTest*** 
+2025-07-26 18:55:59 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest ****
+2025-07-26 18:55:59 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2025-07-26 18:56:00 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2025-07-26 18:56:00 [main] INFO  testCases.TC001_AccountRegistrationTest - First name Filled
+2025-07-26 18:56:00 [main] INFO  testCases.TC001_AccountRegistrationTest - Last name Filled
+2025-07-26 18:56:00 [main] INFO  testCases.TC001_AccountRegistrationTest - Email entered
+2025-07-26 18:56:00 [main] INFO  testCases.TC001_AccountRegistrationTest - Password entered
+2025-07-26 18:56:00 [main] INFO  testCases.TC001_AccountRegistrationTest - Password confirmed
+2025-07-26 18:56:00 [main] INFO  testCases.TC001_AccountRegistrationTest - Mobile number filled
+2025-07-26 18:56:00 [main] INFO  testCases.TC001_AccountRegistrationTest - Agreed privacy policy
+2025-07-26 18:56:00 [main] INFO  testCases.TC001_AccountRegistrationTest - Submitted registration form
+2025-07-26 18:56:01 [main] INFO  testCases.TC001_AccountRegistrationTest - Welcome screen message retreived
+2025-07-26 18:56:01 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Finished TC001_AccountRegistrationTest*** 
+2025-07-26 18:56:04 [main] INFO  testCases.TC002_Login - ***Starting TC002_Login ****
+2025-07-26 18:56:04 [main] INFO  testCases.TC002_Login - Reached login screen 
+2025-07-26 18:56:04 [main] INFO  testCases.TC002_Login - Email ID field is filled
+2025-07-26 18:56:04 [main] INFO  testCases.TC002_Login - Password entered
+2025-07-26 18:56:04 [main] INFO  testCases.TC002_Login - Login is successful
+2025-07-26 20:12:09 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest ****
+2025-07-26 20:12:09 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2025-07-26 20:12:10 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2025-07-26 20:12:10 [main] INFO  testCases.TC001_AccountRegistrationTest - First name Filled
+2025-07-26 20:12:10 [main] INFO  testCases.TC001_AccountRegistrationTest - Last name Filled
+2025-07-26 20:12:10 [main] INFO  testCases.TC001_AccountRegistrationTest - Email entered
+2025-07-26 20:12:10 [main] INFO  testCases.TC001_AccountRegistrationTest - Password entered
+2025-07-26 20:12:10 [main] INFO  testCases.TC001_AccountRegistrationTest - Password confirmed
+2025-07-26 20:12:10 [main] INFO  testCases.TC001_AccountRegistrationTest - Mobile number filled
+2025-07-26 20:12:10 [main] INFO  testCases.TC001_AccountRegistrationTest - Agreed privacy policy
+2025-07-26 20:12:11 [main] INFO  testCases.TC001_AccountRegistrationTest - Submitted registration form
+2025-07-26 20:12:12 [main] INFO  testCases.TC001_AccountRegistrationTest - Welcome screen message retreived
+2025-07-26 20:12:12 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Finished TC001_AccountRegistrationTest*** 
+2025-07-26 20:12:15 [main] INFO  testCases.TC002_Login - ***Starting TC002_Login ****
+2025-07-26 20:12:15 [main] INFO  testCases.TC002_Login - Reached login screen 
+2025-07-26 20:12:15 [main] INFO  testCases.TC002_Login - Email ID field is filled
+2025-07-26 20:12:16 [main] INFO  testCases.TC002_Login - Password entered
+2025-07-26 20:12:16 [main] INFO  testCases.TC002_Login - Login is successful
+2025-07-26 20:48:14 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest ****
+2025-07-26 20:48:14 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2025-07-26 20:48:15 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2025-07-26 20:48:15 [main] INFO  testCases.TC001_AccountRegistrationTest - First name Filled
+2025-07-26 20:48:15 [main] INFO  testCases.TC001_AccountRegistrationTest - Last name Filled
+2025-07-26 20:48:15 [main] INFO  testCases.TC001_AccountRegistrationTest - Email entered
+2025-07-26 20:48:15 [main] INFO  testCases.TC001_AccountRegistrationTest - Password entered
+2025-07-26 20:48:15 [main] INFO  testCases.TC001_AccountRegistrationTest - Password confirmed
+2025-07-26 20:48:15 [main] INFO  testCases.TC001_AccountRegistrationTest - Mobile number filled
+2025-07-26 20:48:16 [main] INFO  testCases.TC001_AccountRegistrationTest - Agreed privacy policy
+2025-07-26 20:48:17 [main] INFO  testCases.TC001_AccountRegistrationTest - Submitted registration form
+2025-07-26 20:48:17 [main] INFO  testCases.TC001_AccountRegistrationTest - Welcome screen message retreived
+2025-07-26 20:48:17 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Finished TC001_AccountRegistrationTest*** 
+2025-07-26 20:48:24 [main] INFO  testCases.TC002_Login - ***Starting TC002_Login ****
+2025-07-26 20:48:24 [main] INFO  testCases.TC002_Login - Reached login screen 
+2025-07-26 20:48:25 [main] INFO  testCases.TC002_Login - Email ID field is filled
+2025-07-26 20:48:25 [main] INFO  testCases.TC002_Login - Password entered
+2025-07-26 20:48:25 [main] INFO  testCases.TC002_Login - Login is successful
+2025-07-26 20:48:25 [main] INFO  testCases.TC002_Login - Account exists
+2025-07-26 20:48:25 [main] INFO  testCases.TC002_Login - ****Test Execution Complete****
+2025-07-26 20:50:26 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest ****
+2025-07-26 20:50:26 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2025-07-26 20:50:26 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2025-07-26 20:50:27 [main] INFO  testCases.TC001_AccountRegistrationTest - First name Filled
+2025-07-26 20:50:27 [main] INFO  testCases.TC001_AccountRegistrationTest - Last name Filled
+2025-07-26 20:50:27 [main] INFO  testCases.TC001_AccountRegistrationTest - Email entered
+2025-07-26 20:50:27 [main] INFO  testCases.TC001_AccountRegistrationTest - Password entered
+2025-07-26 20:50:27 [main] INFO  testCases.TC001_AccountRegistrationTest - Password confirmed
+2025-07-26 20:50:27 [main] INFO  testCases.TC001_AccountRegistrationTest - Mobile number filled
+2025-07-26 20:50:27 [main] INFO  testCases.TC001_AccountRegistrationTest - Agreed privacy policy
+2025-07-26 20:50:28 [main] INFO  testCases.TC001_AccountRegistrationTest - Submitted registration form
+2025-07-26 20:50:28 [main] INFO  testCases.TC001_AccountRegistrationTest - Welcome screen message retreived
+2025-07-26 20:50:28 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Finished TC001_AccountRegistrationTest*** 
+2025-07-26 20:50:33 [main] INFO  testCases.TC002_Login - ***Starting TC002_Login ****
+2025-07-26 20:50:33 [main] INFO  testCases.TC002_Login - Reached login screen 
+2025-07-26 20:50:34 [main] INFO  testCases.TC002_Login - Email ID field is filled
+2025-07-26 20:50:34 [main] INFO  testCases.TC002_Login - Password entered
+2025-07-26 20:50:34 [main] INFO  testCases.TC002_Login - Login is successful
+2025-07-26 20:50:35 [main] INFO  testCases.TC002_Login - Account exists
+2025-07-26 20:50:35 [main] INFO  testCases.TC002_Login - ****Test Execution Complete****
+2025-07-27 20:50:19 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest ****
+2025-07-27 20:50:19 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2025-07-27 20:50:20 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2025-07-27 20:50:20 [main] INFO  testCases.TC001_AccountRegistrationTest - First name Filled
+2025-07-27 20:50:20 [main] INFO  testCases.TC001_AccountRegistrationTest - Last name Filled
+2025-07-27 20:50:20 [main] INFO  testCases.TC001_AccountRegistrationTest - Email entered
+2025-07-27 20:50:20 [main] INFO  testCases.TC001_AccountRegistrationTest - Password entered
+2025-07-27 20:50:20 [main] INFO  testCases.TC001_AccountRegistrationTest - Password confirmed
+2025-07-27 20:50:20 [main] INFO  testCases.TC001_AccountRegistrationTest - Mobile number filled
+2025-07-27 20:50:20 [main] INFO  testCases.TC001_AccountRegistrationTest - Agreed privacy policy
+2025-07-27 20:50:21 [main] INFO  testCases.TC001_AccountRegistrationTest - Submitted registration form
+2025-07-27 20:50:21 [main] INFO  testCases.TC001_AccountRegistrationTest - Welcome screen message retreived
+2025-07-27 20:50:21 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Finished TC001_AccountRegistrationTest*** 
+2025-07-27 20:59:35 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest ****
+2025-07-27 20:59:35 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2025-07-27 20:59:36 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2025-07-27 20:59:36 [main] INFO  testCases.TC001_AccountRegistrationTest - First name Filled
+2025-07-27 20:59:36 [main] INFO  testCases.TC001_AccountRegistrationTest - Last name Filled
+2025-07-27 20:59:36 [main] INFO  testCases.TC001_AccountRegistrationTest - Email entered
+2025-07-27 20:59:36 [main] INFO  testCases.TC001_AccountRegistrationTest - Password entered
+2025-07-27 20:59:36 [main] INFO  testCases.TC001_AccountRegistrationTest - Password confirmed
+2025-07-27 20:59:36 [main] INFO  testCases.TC001_AccountRegistrationTest - Mobile number filled
+2025-07-27 20:59:36 [main] INFO  testCases.TC001_AccountRegistrationTest - Agreed privacy policy
+2025-07-27 20:59:37 [main] INFO  testCases.TC001_AccountRegistrationTest - Submitted registration form
+2025-07-27 20:59:37 [main] INFO  testCases.TC001_AccountRegistrationTest - Welcome screen message retreived
+2025-07-27 20:59:37 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Finished TC001_AccountRegistrationTest*** 
+2025-07-27 21:04:39 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest ****
+2025-07-27 21:04:39 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2025-07-27 21:04:40 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2025-07-27 21:04:40 [main] INFO  testCases.TC001_AccountRegistrationTest - First name Filled
+2025-07-27 21:04:40 [main] INFO  testCases.TC001_AccountRegistrationTest - Last name Filled
+2025-07-27 21:04:40 [main] INFO  testCases.TC001_AccountRegistrationTest - Email entered
+2025-07-27 21:04:40 [main] INFO  testCases.TC001_AccountRegistrationTest - Password entered
+2025-07-27 21:04:40 [main] INFO  testCases.TC001_AccountRegistrationTest - Password confirmed
+2025-07-27 21:04:40 [main] INFO  testCases.TC001_AccountRegistrationTest - Mobile number filled
+2025-07-27 21:04:40 [main] INFO  testCases.TC001_AccountRegistrationTest - Agreed privacy policy
+2025-07-27 21:04:42 [main] INFO  testCases.TC001_AccountRegistrationTest - Submitted registration form
+2025-07-27 21:04:42 [main] INFO  testCases.TC001_AccountRegistrationTest - Welcome screen message retreived
+2025-07-27 21:04:42 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Finished TC001_AccountRegistrationTest*** 
+2025-07-27 21:20:07 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest ****
+2025-07-27 21:20:07 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2025-07-27 21:20:07 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2025-07-27 21:20:08 [main] INFO  testCases.TC001_AccountRegistrationTest - First name Filled
+2025-07-27 21:20:08 [main] INFO  testCases.TC001_AccountRegistrationTest - Last name Filled
+2025-07-27 21:20:08 [main] INFO  testCases.TC001_AccountRegistrationTest - Email entered
+2025-07-27 21:20:08 [main] INFO  testCases.TC001_AccountRegistrationTest - Password entered
+2025-07-27 21:20:08 [main] INFO  testCases.TC001_AccountRegistrationTest - Password confirmed
+2025-07-27 21:20:08 [main] INFO  testCases.TC001_AccountRegistrationTest - Mobile number filled
+2025-07-27 21:20:08 [main] INFO  testCases.TC001_AccountRegistrationTest - Agreed privacy policy
+2025-07-27 21:20:09 [main] INFO  testCases.TC001_AccountRegistrationTest - Submitted registration form
+2025-07-27 21:20:09 [main] INFO  testCases.TC001_AccountRegistrationTest - Welcome screen message retreived
+2025-07-27 21:20:09 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Finished TC001_AccountRegistrationTest*** 
+2025-07-27 21:20:12 [main] INFO  testCases.TC002_Login - ***Starting TC002_Login ****
+2025-07-27 21:20:13 [main] INFO  testCases.TC002_Login - Reached login screen 
+2025-07-27 21:20:13 [main] INFO  testCases.TC002_Login - Email ID field is filled
+2025-07-27 21:20:13 [main] INFO  testCases.TC002_Login - Password entered
+2025-07-27 21:20:13 [main] INFO  testCases.TC002_Login - Login is successful
+2025-07-27 21:20:14 [main] INFO  testCases.TC002_Login - Account exists
+2025-07-27 21:20:14 [main] INFO  testCases.TC002_Login - ****Test Execution Complete****
+2025-07-27 21:44:04 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest ****
+2025-07-27 21:44:04 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2025-07-27 21:44:04 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2025-07-27 21:44:04 [main] INFO  testCases.TC001_AccountRegistrationTest - First name Filled
+2025-07-27 21:44:05 [main] INFO  testCases.TC001_AccountRegistrationTest - Last name Filled
+2025-07-27 21:44:05 [main] INFO  testCases.TC001_AccountRegistrationTest - Email entered
+2025-07-27 21:44:05 [main] INFO  testCases.TC001_AccountRegistrationTest - Password entered
+2025-07-27 21:44:05 [main] INFO  testCases.TC001_AccountRegistrationTest - Password confirmed
+2025-07-27 21:44:05 [main] INFO  testCases.TC001_AccountRegistrationTest - Mobile number filled
+2025-07-27 21:44:05 [main] INFO  testCases.TC001_AccountRegistrationTest - Agreed privacy policy
+2025-07-27 21:44:06 [main] INFO  testCases.TC001_AccountRegistrationTest - Submitted registration form
+2025-07-27 21:44:06 [main] INFO  testCases.TC001_AccountRegistrationTest - Welcome screen message retreived
+2025-07-27 21:44:06 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Finished TC001_AccountRegistrationTest*** 
+2025-07-27 21:44:10 [main] INFO  testCases.TC002_Login - ***Starting TC002_Login ****
+2025-07-27 21:44:10 [main] INFO  testCases.TC002_Login - Reached login screen 
+2025-07-27 21:44:10 [main] INFO  testCases.TC002_Login - Email ID field is filled
+2025-07-27 21:44:10 [main] INFO  testCases.TC002_Login - Password entered
+2025-07-27 21:44:11 [main] INFO  testCases.TC002_Login - Login is successful
+2025-07-27 21:44:11 [main] INFO  testCases.TC002_Login - Account exists
+2025-07-27 21:44:11 [main] INFO  testCases.TC002_Login - ****Test Execution Complete****
+2025-07-27 22:34:47 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest ****
+2025-07-27 22:34:48 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2025-07-27 22:34:48 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2025-07-27 22:34:48 [main] INFO  testCases.TC001_AccountRegistrationTest - First name Filled
+2025-07-27 22:34:48 [main] INFO  testCases.TC001_AccountRegistrationTest - Last name Filled
+2025-07-27 22:34:49 [main] INFO  testCases.TC001_AccountRegistrationTest - Email entered
+2025-07-27 22:34:49 [main] INFO  testCases.TC001_AccountRegistrationTest - Password entered
+2025-07-27 22:34:49 [main] INFO  testCases.TC001_AccountRegistrationTest - Password confirmed
+2025-07-27 22:34:49 [main] INFO  testCases.TC001_AccountRegistrationTest - Mobile number filled
+2025-07-27 22:34:49 [main] INFO  testCases.TC001_AccountRegistrationTest - Agreed privacy policy
+2025-07-27 22:34:51 [main] INFO  testCases.TC001_AccountRegistrationTest - Submitted registration form
+2025-07-27 22:34:51 [main] INFO  testCases.TC001_AccountRegistrationTest - Welcome screen message retreived
+2025-07-27 22:34:51 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Finished TC001_AccountRegistrationTest*** 
+2025-07-27 22:34:58 [main] INFO  testCases.TC002_Login - ***Starting TC002_Login ****
+2025-07-27 22:34:58 [main] INFO  testCases.TC002_Login - Reached login screen 
+2025-07-27 22:34:59 [main] INFO  testCases.TC002_Login - Email ID field is filled
+2025-07-27 22:34:59 [main] INFO  testCases.TC002_Login - Password entered
+2025-07-27 22:35:00 [main] INFO  testCases.TC002_Login - Login is successful
+2025-07-27 22:35:00 [main] INFO  testCases.TC002_Login - Account exists
+2025-07-27 22:35:00 [main] INFO  testCases.TC002_Login - ****Test Execution Complete****
+2025-07-27 22:39:49 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest ****
+2025-07-27 22:39:49 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2025-07-27 22:39:49 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2025-07-27 22:39:50 [main] INFO  testCases.TC001_AccountRegistrationTest - First name Filled
+2025-07-27 22:39:50 [main] INFO  testCases.TC001_AccountRegistrationTest - Last name Filled
+2025-07-27 22:39:50 [main] INFO  testCases.TC001_AccountRegistrationTest - Email entered
+2025-07-27 22:39:50 [main] INFO  testCases.TC001_AccountRegistrationTest - Password entered
+2025-07-27 22:39:50 [main] INFO  testCases.TC001_AccountRegistrationTest - Password confirmed
+2025-07-27 22:39:50 [main] INFO  testCases.TC001_AccountRegistrationTest - Mobile number filled
+2025-07-27 22:39:51 [main] INFO  testCases.TC001_AccountRegistrationTest - Agreed privacy policy
+2025-07-27 22:39:52 [main] INFO  testCases.TC001_AccountRegistrationTest - Submitted registration form
+2025-07-27 22:39:52 [main] INFO  testCases.TC001_AccountRegistrationTest - Welcome screen message retreived
+2025-07-27 22:39:52 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Finished TC001_AccountRegistrationTest*** 
+2025-07-27 22:39:57 [main] INFO  testCases.TC002_Login - ***Starting TC002_Login ****
+2025-07-27 22:39:58 [main] INFO  testCases.TC002_Login - Reached login screen 
+2025-07-27 22:39:58 [main] INFO  testCases.TC002_Login - Email ID field is filled
+2025-07-27 22:39:58 [main] INFO  testCases.TC002_Login - Password entered
+2025-07-27 22:40:01 [main] INFO  testCases.TC002_Login - Login is successful
+2025-07-27 22:40:01 [main] INFO  testCases.TC002_Login - Account exists
+2025-07-27 22:40:01 [main] INFO  testCases.TC002_Login - ****Test Execution Complete****
